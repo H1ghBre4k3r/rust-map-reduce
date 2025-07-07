@@ -10,4 +10,4 @@ repository = "https://github.com/H1ghBre4k3r/rust-map-reduce"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-tokio = { version = "1.46.0", features = ["full"] }
+tokio = { version = "1.46.1", features = ["full"] }
